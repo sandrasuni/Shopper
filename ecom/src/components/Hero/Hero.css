@@ -1,0 +1,48 @@
+.hero{
+    height: 100vh;
+    background-image: url('https://t4.ftcdn.net/jpg/05/39/99/67/360_F_539996737_T5gJEIEqsGUjMXhrLZt0lDLcrOWsSHlb.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: cover;
+   
+}
+.hero-left{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    padding-left: 100px ;
+    line-height: 1.1;
+}
+.hero-left h2{
+    color:   whitesmoke;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 200px;
+    margin-left: 580px;
+
+}
+.hero-left p{
+    color: white;
+    font-size: 80px;
+    font-weight: 700;
+     margin-left: 500px;
+
+
+}
+
+
+@media(max-width:1280px){
+    
+    .hero-left {
+        padding-left: 100px;
+        
+    }
+    .hero-left h2{
+        font-size: 22px;
+    }
+    .hero-left p{
+        font-size: 60px;
+    }
+}

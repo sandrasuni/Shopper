@@ -1,0 +1,29 @@
+[
+    {
+        "id":1,
+        "name":"NIGHTFALL FLORA",
+        "desc":"A graceful black & multicolour floral hand embroidery dress featuring round neck, puffed sleeves, fitted waist, gathered hem and button detailing at the front.",
+        "price":2590.00,
+        "SIZE":"Regular fit",
+        "img":"/src/components/Products/img1.jpg"
+        
+    },
+        
+    {
+        "id":2,
+        "name":"BLUSHING PEARL",
+        "desc":"A graceful black & multicolour floral hand embroidery dress featuring round neck puffed sleeves, fitted waist, gathered hem and button detailing at the front.",
+       "rice": 1890.00,
+        "SIZE" :"Regular Fit",
+        "img":"/src/components/Products/img2.jpg"
+    },
+        
+    {
+        "id":3,
+        "name":"ELEGANT ENIGMA",
+        "desc":"A classy ethnic ensemble featuring a black kurthi in ethnic prints and stripes with a shirt collar on a V-neck and button-up flaps on the sleeve end paired with chic pencil pants with stripes at the sides.",
+        "price": 1690.00,
+        "SIZE":"Regular Fit",
+        "img":"/src/components/Products/img3.jpg"
+    }
+]
